@@ -1,0 +1,2 @@
+# conference-hall-management
+Conference Hall Management System, the package developed using C, was for managing the time slots of shared conference hall(s) in an organisation. Users of this multi-user system could get visibility of availabilities, and make bookings for time slots, modify/cancel them. It supports creating multiple conference halls and many users. Persistence of data was through flat files.
